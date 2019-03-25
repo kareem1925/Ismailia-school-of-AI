@@ -12,7 +12,7 @@ In this file you will find all the references and the data that were presented.
 6. [A great book about computational models](http://cs.brown.edu/people/jsavage/book/pdfs/ModelsOfComputation.pdf) **highly recommended**
 7. [Von Neumann Architecture](https://www.computerscience.gcse.guru/theory/von-neumann-architecture)
 8. [Von Neumann Architecture related research papers](https://www.sciencedirect.com/topics/computer-science/von-neumann-architecture)
-9. [Automated Machine Learning](https://towardsdatascience.com/automated-machine-learning-a-different-notion-of-deep-e0f7e5c06fb2) and [this a great example](https://towardsdatascience.com/tpot-automated-machine-learning-in-python-4c063b3e5de9) about it
+9. [Automated Machine Learning](https://towardsdatascience.com/automated-machine-learning-a-different-notion-of-deep-e0f7e5c06fb2) and [this is a great example](https://towardsdatascience.com/tpot-automated-machine-learning-in-python-4c063b3e5de9) about it
 10. [Neural Networks Explained](http://neuralnetworksanddeeplearning.com/) **recommended**
 11. [Quantum Computating](https://www.technologyreview.com/s/612844/what-is-quantum-computing/)
 12. [Need for Quantum Computation](https://www.clerro.com/guide/485/why-do-we-need-quantum-computing)
