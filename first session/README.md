@@ -1,6 +1,4 @@
-# Modifier-Session-about-AI
-
-### Introduction to AI and computational models
+# Introduction to AI and computational models
 
 In this file you will find all the references and the data that were presented.
 
