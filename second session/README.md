@@ -14,4 +14,4 @@
 10. [A tutorial for slope and intercept calulation](https://enlight.nyc/projects/linear-regression/)
 11. [A direct example for linear Regression using Scikit-learn](https://towardsdatascience.com/a-beginners-guide-to-linear-regression-in-python-with-scikit-learn-83a8f7ae2b4f)
 
-** The next time we will visit Gradient Descent and how to use it in regression analysis plus getting familiar with metric functions **
+**The next time we will visit Gradient Descent and how to use it in regression analysis plus getting familiar with metric functions**
