@@ -13,3 +13,5 @@ node_modules
 /.ipynb_checkpoints
 
 .ipynb_checkpoints
+
+.gitignore
