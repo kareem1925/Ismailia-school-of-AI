@@ -14,5 +14,7 @@ Best architecture is a single <a href="https://www.codecogs.com/eqnedit.php?late
 * Another **important note**, in qiskit's notebook I had to set the optimization level to the maximum so that the transpiled circuit would be the perfect match for Vigo's architecture.
 * Initializing the weights between 0 and 1 avoids negative values for rotation gate but taking the abs value will ensure that it's going to give us the required positive state
 
+## Important note Monday 2nd of March at 5:34 AM "after deadline"
 
+**ibmq_vigo backend** had the smallest error rate during experimentation. It may vary heavily depending on the device and last calibration. The only reproducible results are found in pennylane since there are no noisy models used there. Only stochastic measurements.
 
